@@ -54,7 +54,7 @@ const App = () => {
   return (
     <View style={{flex: 1}}>
       <MapView
-        style={{width: '100%', height: '100%'}}
+        style={{width: '100%', height: '70%'}}
         initialRegion={{
           latitude: mlat,
           longitude: mlng,
